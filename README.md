@@ -19,10 +19,15 @@ The document structure is as mentioned below:
 {
 
 "executeTest" : true,   --> This field activates and disabled the testcases in cases something goes wrong with test data.
+
 "groferLatUpper" : "5",
+
 "groferLatLower" : "-40",
+
 "groferLongUpper" : "100",
+
 "groferLongLower" : "5",
+
 "percentage" : 50      --> This is also configurable as it is getting picked either from mongo or properties file depending on test cases
 
 }
