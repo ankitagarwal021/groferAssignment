@@ -1,0 +1,5 @@
+target/
+.idea/
+groferTest.iml
+.DS_Store
+../.DS_Store
